@@ -1,5 +1,9 @@
 # Win7-games-for-macOS
-A wineskin wrapper for the classic Windows 7 games for macOS
+> A wineskin wrapper for the classic Windows 7 games for macOS
+
+<img width="1000" alt="banner" src="https://github.com/user-attachments/assets/3f006ee0-441d-40ef-9915-dd930262769a" />
+
+
 
 ## Installing
 
@@ -59,3 +63,6 @@ Move the generated app to that folder.
 Now follow these instructions for each game:
 1. Open a terminal and navigate to the folder
 2. Run this command: `ln -s "generated_app.app/Contents/game_name.app" "game_name"` (be sure to use the parentheses)
+
+## Copyright Disclaimer
+The classic Windows 7 games included in the releases are copyrighted by Microsoft Corporation. This project does not claim ownership of the games, nor does it sell or license them. Read the [LICENSE](https://github.com/JCionx/Win7-games-for-macOS/blob/main/LICENSE) file for more information.

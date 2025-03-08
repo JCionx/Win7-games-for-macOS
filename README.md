@@ -1,6 +1,11 @@
 # Win7-games-for-macOS
 A wineskin wrapper for the classic Windows 7 games for macOS
 
+## Installing
+
+1. Download the latest release from the [releases page](https://github.com/JCionx/Win7-games-for-macOS/releases)
+2. Extract the zip and move the extracted folder to your Applications folder
+
 ## Building
 
 ### 1. Creating the wrapper
